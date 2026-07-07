@@ -1,2 +1,2 @@
 top_n_meters,train_ratio,val_ratio,test_ratio,input_window,forecast_horizon,n_states,n_ensemble,d_model,n_heads,num_layers,dim_feedforward,dropout,batch_size,lr,weight_decay,max_epochs,patience,grad_clip
-1,0.7,0.1,0.2,168,24,3,5,256,8,2,256,0.12303616213380454,32,0.0003476649150592621,2.334586407601622e-05,50,10,1.0
+1,0.7,0.1,0.2,168,24,3,5,128,4,1,512,0.20027875293580222,32,0.0011114989443094978,1.1527987128232402e-06,50,10,1.0
