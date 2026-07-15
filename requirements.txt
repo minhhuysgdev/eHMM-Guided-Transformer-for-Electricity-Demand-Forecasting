@@ -8,3 +8,7 @@ pyarrow
 lightgbm
 huggingface_hub
 optuna
+jupyter
+nbconvert
+nbclient
+ipykernel
